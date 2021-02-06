@@ -1,4 +1,3 @@
-/** Pasta onde o programa está */
 package models;
 
 /** Classe Bidding (Licitação/Pregão) */
@@ -13,10 +12,8 @@ public class Bidding {
 
     private String type;
 
-    /** Cria Método para instaciar a Classe sem paramêtros */
     public Bidding() {}
 
-    /** Cria Método para instaciar a Classe com paramêtros */
     public Bidding(String id, String description, String date, String type) {
         this.id          = id;
         this.description = description;
@@ -24,7 +21,6 @@ public class Bidding {
         this.type        = type;
     }
 
-    /** Setters e Getters dos atributos da Classe */
     public String getId() {
         return id;
     }
