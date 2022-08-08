@@ -1,2 +1,3 @@
-Exercício consistido em modelagem de um software para capturar os editais de pregão eletrônico disponíveis em link (http://notes.ufsc.br/aplic/licitcpl.nsf/vwLicitacao?OpenView&Start=1&Count=30&Expand=1#1), onde não é necessário fazer a camada de persistência, somente o serviço de captura e modelo de dados que seriam extraídos dessa captura.
-Desevolvido em JAVA.
+JAVA_BOT - Um bot em JAVA para extrair dados específicos de um certo link
+
+  Todo o exercício é consistido na modelagem de um software para capturar, em certos editais de pregão eletrônico disponíveis no link (http://notes.ufsc.br/aplic/licitcpl.nsf/vwLicitacao?OpenView&Start=1&Count=30&Expand=1#1), informações específicas.
